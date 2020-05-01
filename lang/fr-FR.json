@@ -1,0 +1,21 @@
+{
+  "buttonProjects": {
+    "gitlab": "Mon gitlab",
+    "github": "Mon github"
+  },
+  "contact": {
+    "mail": "florent.clement@etu.univ-lyon1.fr",
+    "old": "{age} ans",
+    "card": "\"Développeur passionné, je suis avide de projets pour continuellement accroitre mes connaissances et procurer un travail de qualité\""
+  },
+  "paths": {
+    "parcours": "Mon parcours",
+    "projets": "Mes projets"
+  },
+  "titles": {
+    "description": "1- Description du projet",
+    "langue": "2- Langage(s) utilisé(s)",
+    "technologie": "3- Technolgies(s) utilisé(s)",
+    "image": "4- Image(s) du projet"
+  }
+}
